@@ -59,7 +59,7 @@ class Normal2 extends React.Component {
   }
 }
 
-class Normal3 extends React.Component {
+class Normal3 extends React.PureComponent {
   render() {
     return (
       <strong>
